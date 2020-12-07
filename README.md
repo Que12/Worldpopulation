@@ -20,7 +20,8 @@ My first short project at visualisation data.
 
 * Ability to generate visualisation of random walk
 * Ability to create the  inteatcive map world  population 
-##Status
+
+## Status
 
 Project is: in progress
 
